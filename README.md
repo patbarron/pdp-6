@@ -19,5 +19,6 @@ likely mean that one could not run the PDP-6 monitor directly on a PDP-10, even 
 else is the same.  I may revisit this at some point in the future, if I learn more about the SIMH framework,
 and am able to copy/paste code from the SIMH KA10 emulator to make it function like a PDP-6.
 
-At this moment, there's basically nothing here except this README.md file, to act as a placeholder to get
-the repository on GitHub.  Feel free to contribute code if you are so inclined.  ;-)
+At this moment, there's basically nothing here except this README.md file (to act as a placeholder to get
+the repository on GitHub), and the beginnings of some design notes.  Feel free
+to contribute code if you are so inclined.  ;-)
