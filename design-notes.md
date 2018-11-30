@@ -65,6 +65,20 @@ stopped (due to a HALT operation, etc.)
 Manages system I/O, communicates with the APR to get I/O requests
 and provide/obtain data and conditions.
 
+### Paper Tape Punch [PTP] (type 761) - device number 100
+
+### Paper Tape Reader [PTR] (type 760) - device number 104
+
+### Card Punch Control [CP] (type 460) - device number 110
+
+### Card Reader [CR] (type 461) - device number 114
+
+### Line Printer [LPT] (type 646) - device mumber 124
+
+### Data Control [DC] (type 136) - device number 200
+
+### Microtape [UTC,UTS] (type 551) - device number 210, 214
+
 ### More will go here soon
 
 ## Non-goals
