@@ -77,7 +77,12 @@ and provide/obtain data and conditions.
 
 ### Data Control [DC] (type 136) - device number 200
 
+I'll be honest about this one ... I truly don't know right now what this even does.  But, I understand that I need it,
+so I'll figure it out...
+
 ### Microtape [UTC,UTS] (type 551) - device number 210, 214
+
+### Some kind of disk (not exactly sure what type the PDP-6 monitor can deal with best)
 
 ### More will go here soon
 
