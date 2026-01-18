@@ -1,5 +1,9 @@
 # PDP-6 Emulator
 
+(This project is archived because it's moot at this point - I never did make any progress with this, and
+SIMH now emulates the PDP-6, so there's no need to continue with this project - not that it ever really
+started... :-) )
+
 This is (or, more accurately, may eventually become...) a standalone PDP-6 emulator.  The ultimate goal is to
 be able to run the PDP-6 monitors found here:
 
